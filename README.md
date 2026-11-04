@@ -34,6 +34,3 @@ An open-source hardware fault detector designed to monitor voltage and current i
 * **D1 (LED):** General status / MCU driven.
 * **D2 (LED):** Fault state indicator.
 * **SW1 (Tactile Pushbutton):** Manual fault reset switch to clear the CD4013 latch and restore load power.
-
-## License
-This hardware design is released under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S) / MIT License - *Update as needed*].
