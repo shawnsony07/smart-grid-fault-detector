@@ -2,6 +2,8 @@
 
 An open-source hardware fault detector designed to monitor voltage and current in smart grid applications. Powered by an ATmega328P microcontroller, this board detects grid anomalies and isolates loads using a hardware-latched P-Channel MOSFET load switch, ensuring microsecond-level response times to overcurrent or fault conditions.
 
+![Smart Grid Fault Detector 3D Render](docs/pcb_3D.png)
+
 ## Key Features
 
 * **Microcontroller:** ATmega328P (DIP-28) for ADC polling, threshold evaluation, and status indication.
